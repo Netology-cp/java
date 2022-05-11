@@ -49,7 +49,7 @@
   
 </details>
 
-<details>
+<details open>
   <summary>Пишем в идее, сдаём в реплите :new:</summary>
   Теперь вы знакомы с профессиональным редактором кода - [Intellij IDEA Community Version](https://www.jetbrains.com/idea/download/). Все задачи теперь должны выполняться в нём.
   

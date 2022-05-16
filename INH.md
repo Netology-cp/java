@@ -74,10 +74,10 @@
 
 | Syntax | SavingsAccount | CheckingAccount | CreditAccount |
 | --- | ----------- | --- | --- |
-| Есть имя | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Есть баланс | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Есть имя | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| Есть баланс | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Имеет минимальный баланс (нельзя платить, если он станет ниже) | выставляется конструктором | 0 | :x: (баланс может быть отрицательным) |
-| Может быть положительным | :heavy_check_mark: | :heavy_check_mark: | :x: |
+| Может быть положительным | :white_check_mark: | :white_check_mark: | :x: |
 
 У вас должен быть класс `Account`, который является родителем для всех трёх классов-видов аккаунтов. В нём должно быть два метода (`pay` и `add`). И три класса-наследника, по одному для каждого типа счёта. Подумайте, какие поля они должны будут иметь.
 

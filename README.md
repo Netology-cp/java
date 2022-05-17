@@ -17,7 +17,7 @@
 1. [Командная работа](./GIT_TEAM.md)
 1. [Generics в коллекциях и методах](./GENERICS.md)
 1. [Коллекции List](./LIST.md)
-1. Коллекции Queue
+1. [Коллекции Queue](./QUEUE.md)
 1. Коллекция HashMap и HashSet
 1. Коллекции Treemap и TreeSet
 

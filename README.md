@@ -19,7 +19,7 @@
 1. [Коллекции List](./LIST.md)
 1. [Коллекции Queue](./QUEUE.md)
 1. Коллекция HashMap и HashSet
-1. Коллекции Treemap и TreeSet
+1. Коллекции TreeMap и TreeSet
 
 [Курсовая работа](https://github.com/netology-code/java-diplom)
 

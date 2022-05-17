@@ -16,7 +16,7 @@
 1. [История работы и ветки](./GIT_HISTORY.md)
 1. [Командная работа](./GIT_TEAM.md)
 1. [Generics в коллекциях и методах](./GENERICS.md)
-1. Коллекции List
+1. [Коллекции List](./LIST.md)
 1. Коллекции Queue
 1. Коллекция HashMap и HashSet
 1. Коллекции Treemap и TreeSet

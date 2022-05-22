@@ -99,7 +99,7 @@ upvotes - голоса
 
 Создайте проект `maven` и добавьте в `pom.xml` библиотеку apache httpclient
 Пример:
-```text
+```xml
 <dependency>
    <groupId>org.apache.httpcomponents</groupId>
    <artifactId>httpclient</artifactId>
@@ -108,7 +108,7 @@ upvotes - голоса
 ```
 
 Создайте метод в который добавьте и настройте класс `CloseableHttpClient` например с помощью builder
-```text
+```java
 CloseableHttpClient httpClient = HttpClientBuilder.create()
     .setDefaultRequestConfig(RequestConfig.custom()
         .setConnectTimeout(5000)    // максимальное время ожидание подключения к серверу
@@ -123,7 +123,7 @@ CloseableHttpClient httpClient = HttpClientBuilder.create()
 
 Добавьте в `pom.xml` библиотеку для работы с json
 Пример:
-```text
+```xml
 <dependency>
    <groupId>com.fasterxml.jackson.core</groupId>
    <artifactId>jackson-databind</artifactId>

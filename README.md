@@ -1,4 +1,4 @@
-# Основы Java и Git
+# Знакомство с Java
 
 1. [Введение в программирование на Java](./INTRO.md)
 1. [Структура программы](./STRUCTURE.md)
@@ -12,16 +12,18 @@
 1. [Полиморфизм](./POLY.md)
 1. [Абстракции и интерфейсы](./ABST.md)
 1. [Исключения, Stacktrace](./EXC.md)
-1. [Внедрение системы контроля версий](./GIT_INTRO.md)
-1. [История работы и ветки](./GIT_HISTORY.md)
-1. [Командная работа](./GIT_TEAM.md)
-1. [Generics в коллекциях и методах](./GENERICS.md)
-1. [Коллекции List](./LIST.md)
-1. [Коллекции Queue](./QUEUE.md)
-1. [Коллекция HashMap и HashSet](./HASH.md)
-1. [Коллекции TreeMap и TreeSet](./TREE.md)
 
 [Курсовая работа](https://github.com/netology-code/java-diplom)
+
+# Основы Git и Java
+3. [Внедрение системы контроля версий](./GIT_INTRO.md)
+4. [История работы и ветки](./GIT_HISTORY.md)
+5. [Командная работа](./GIT_TEAM.md)
+6. [Generics в коллекциях и методах](./GENERICS.md)
+7. [Коллекции List](./LIST.md)
+8. [Коллекции Queue](./QUEUE.md)
+9. [Коллекция HashMap и HashSet](./HASH.md)
+10. [Коллекции TreeMap и TreeSet](./TREE.md)
 
 # JavaCore
 1. [Лямбда-выражения и функциональные интерфейсы](./C_LAMBDA.md)

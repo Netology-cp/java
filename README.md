@@ -33,7 +33,10 @@
 1. [Mockito. Мокирование вызовов](./MOCKITO.md)
 1. [Основы работы с сетью. Модель OSI](./OSI.md)
 1. [Протокол HTTP. Вызовы удаленных серверов](./HTTP.md)
-1. JVM. Организация памяти, сборщики мусора, VisualVM
+1. [JVM. Организация памяти, сборщики мусора, VisualVM](./JVM.md)
 
 # Шаблоны проектирования
-...
+1.1 [Порождающие шаблоны. Builder, Singleton, Factory Method, Abstract Factory, Prototype](https://github.com/netology-code/jd-homeworks/blob/master/creational/README.md)
+1.2 [Структурные шаблоны. Adapter, Proxy, Decorator, Facade, Flyweight](https://github.com/netology-code/jd-homeworks/blob/master/structural/README.md)
+1.3 [Поведенческие шаблоны. Command, CoR, Observer, Iterator](https://github.com/netology-code/jd-homeworks/blob/master/behave/README.md)
+1.4 [Magics, DRY, SOLID](https://github.com/netology-code/jd-homeworks/blob/master/solid/README.md)

@@ -13,7 +13,8 @@
 1. [Абстракции и интерфейсы](./ABST.md)
 1. [Исключения, Stacktrace](./EXC.md)
 
-[Курсовая работа](https://github.com/netology-code/java-diplom)
+# Курсовая работа
+[Конвертер в текстовую графику](https://github.com/netology-code/java-diplom)
 
 # Основы Git и Java
 3. [Внедрение системы контроля версий](./GIT_INTRO.md)
